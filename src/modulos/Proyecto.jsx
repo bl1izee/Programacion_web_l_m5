@@ -20,4 +20,3 @@ export default function Proyecto({ titulo, descripcion, link }) {
     </div>
   );
 }
-
