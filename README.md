@@ -1,16 +1,27 @@
-# React + Vite
+# Porgramacion_web_l_m5
+Esta aplicación web es mi portfolio donde describo quien soy, mistrabajos destacados con su descripcción y tecnologías, y experiencia.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Cómo probarlo
+1. Clona el repositorio
+2. Instala las dependencias con:
 
-Currently, two official plugins are available:
+```bash
+npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+3. Arranca el servidor de Vite:
 
-## React Compiler
+```bash
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+4. Abre la página por el puerto local que te proporciona
 
-## Expanding the ESLint configuration
+## Uso de IA
+Se ha utilizado ChatGPT como apoyo para resolver dudas, analizar errores y 
+revisar posibles mejoras. Las propuestas se revisan y prueban antes de 
+incorporarlas al proyecto.
+Hice uso de la IA para ayudarme en el diseño, aconsejarme sobre los colores, esquema de tamaño y con el nav.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Autopsia 
+1. He tenido que tomar la decisión de como mostrar los proyectos, ya que al principio con ayuda de la IA, coloque los proyectos en cajas. Al final decií mostrarlo en formato de tiras para que apareciera mucho mas bonito. 
